@@ -1,0 +1,14 @@
+C:\Users\yokoj\Documents\Iths\CastTheDice\bin\Debug\net10.0\CastTheDice.exe
+C:\Users\yokoj\Documents\Iths\CastTheDice\bin\Debug\net10.0\CastTheDice.deps.json
+C:\Users\yokoj\Documents\Iths\CastTheDice\bin\Debug\net10.0\CastTheDice.runtimeconfig.json
+C:\Users\yokoj\Documents\Iths\CastTheDice\bin\Debug\net10.0\CastTheDice.dll
+C:\Users\yokoj\Documents\Iths\CastTheDice\bin\Debug\net10.0\CastTheDice.pdb
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\CastTheDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\CastTheDice.AssemblyInfoInputs.cache
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\CastTheDice.AssemblyInfo.cs
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\CastTheDice.csproj.CoreCompileInputs.cache
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\CastTheDice.dll
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\refint\CastTheDice.dll
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\CastTheDice.pdb
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\CastTheDice.genruntimeconfig.cache
+C:\Users\yokoj\Documents\Iths\CastTheDice\obj\Debug\net10.0\ref\CastTheDice.dll
